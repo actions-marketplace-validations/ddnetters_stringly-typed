@@ -25,25 +25,25 @@
     "@types/node": "^25.7.0",
     "@typescript-eslint/eslint-plugin": "^8.59.0",
     "@typescript-eslint/parser": "^8.59.0",
-    "conventional-changelog-conventionalcommits": "^10.2.1",
-    "esbuild": "^0.28.1",
+    "conventional-changelog-conventionalcommits": "^10.4.0",
+    "esbuild": "^0.28.2",
     "eslint": "^10.3.0",
     "jest": "^30.4.2",
-    "semantic-release": "^25.0.8",
+    "semantic-release": "^25.0.9",
     "ts-jest": "^29.4.9",
     "typescript": "^5.0.0",
-    "typescript-eslint": "^8.65.0"
+    "typescript-eslint": "^8.68.0"
   },
   "dependencies": {
     "@actions/core": "^3.0.1",
     "@actions/github": "^9.1.1",
-    "@langchain/anthropic": "^1.5.2",
-    "@langchain/aws": "^1.4.3",
-    "@langchain/core": "^1.2.3",
-    "@langchain/google-genai": "^2.2.0",
-    "@langchain/openai": "^1.5.5",
+    "@langchain/anthropic": "^1.5.8",
+    "@langchain/aws": "^1.4.4",
+    "@langchain/core": "^1.2.4",
+    "@langchain/google-genai": "^2.3.0",
+    "@langchain/openai": "^1.5.10",
     "glob": "^13.0.6",
-    "langchain": "^1.5.4",
-    "zod": "^4.4.3"
+    "langchain": "^1.5.10",
+    "zod": "^4.5.4"
   }
 }
